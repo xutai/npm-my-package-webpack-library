@@ -1,0 +1,17 @@
+{
+  "name": "s6-final-steps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/webpack-numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Xu Tai <514292663@qq.com> (https://xutai.xyz)",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  }
+}
