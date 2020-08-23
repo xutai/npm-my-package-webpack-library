@@ -1,8 +1,9 @@
 {
-  "name": "webpack-numbers-xutai",
+  "name": "webpack-numbers-library",
   "version": "1.0.0",
   "description": "",
   "main": "dist/webpack-numbers.js",
+  "module": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +11,8 @@
   "author": "Xu Tai <514292663@qq.com> (https://xutai.xyz)",
   "license": "ISC",
   "devDependencies": {
-    "lodash": "^4.17.15",
-    "webpack": "^4.39.2",
-    "webpack-cli": "^3.3.7"
+    "lodash": "^4.17.20",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
   }
 }
